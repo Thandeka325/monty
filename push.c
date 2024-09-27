@@ -2,7 +2,7 @@
 
 /**
  * f_push - Pushes an element to the stack.
- * @head: The stack head.
+ * @head: The double head pointer to the stack.
  * @counter: The Line number.
  */
 void f_push(stack_t **head, unsigned int counter)
